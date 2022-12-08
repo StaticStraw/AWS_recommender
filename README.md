@@ -1,6 +1,7 @@
 # data&result
 - computing result from recommender_train_matrix
-- ratings table with 2000&600 and 2005&300
+- ratings table 
+- movies after year 2005 and users in [1-300]
 
 # recommend_computing
 - run on AWS lambda
